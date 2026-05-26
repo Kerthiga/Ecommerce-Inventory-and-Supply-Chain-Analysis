@@ -96,17 +96,21 @@ The dataset includes:
 
 ## Dashboard Preview
 
-1. Sales Dashboard <br></br>
-    <img width="1287" height="720" alt="Screenshot 2026-05-16 192917" src="https://github.com/user-attachments/assets/83f191f5-afa8-4db4-95aa-5d5a286da614" />
+1. Sales Dashboard <br>
+<img width="1287" height="720" alt="Screenshot 2026-05-16 192917" src="https://github.com/user-attachments/assets/0f10fdd8-a821-4dcf-8bd1-5dfbdff4a781" />
+</br>
 
-2. Inventory Dashboard <br></br>
-    <img width="1282" height="721" alt="Screenshot 2026-05-16 192933" src="https://github.com/user-attachments/assets/1c091609-8f6d-4b0b-b487-55fce14b0aac" />
+2. Inventory Dashboard <br>
+<img width="1282" height="721" alt="Screenshot 2026-05-16 192933" src="https://github.com/user-attachments/assets/efb59b08-67b8-4691-bd9b-0ed302a9a8c1" />
+</br>
 
-3. Supply Chain Dashboard <br></br>
-    <img width="1284" height="715" alt="Screenshot 2026-05-16 192946" src="https://github.com/user-attachments/assets/6a63e12c-7165-489f-aaf6-88e6a5583ac4" />
+3. Supply Chain Dashboard <br>
+<img width="1284" height="715" alt="Screenshot 2026-05-16 192946" src="https://github.com/user-attachments/assets/862b784e-4a75-45f2-99a1-ec4ac3c825eb" />
+</br>
 
-4. Ecommerce Inventory and Supply Chain Dashboard in Excel <br></br>
-    <img width="1838" height="781" alt="Screenshot 2026-05-20 141233" src="https://github.com/user-attachments/assets/c26a64ef-7f12-4022-8a51-8a1e50a9c384" />
+4. Ecommerce Inventory and Supply Chain Dashboard in Excel <br>
+<img width="1838" height="781" alt="Screenshot 2026-05-20 141233" src="https://github.com/user-attachments/assets/19f57379-2bf1-4d84-9b9e-158010786136" />
+</br>
 
 
 ---
